@@ -1,4 +1,4 @@
-# [chasereed.github.io](chasereed.github.io)
+# [chasereed.github.io](https://chasereed.github.io)
 
 - manually edited html 🥰
 
