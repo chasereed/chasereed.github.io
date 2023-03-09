@@ -1,5 +1,5 @@
-# chasereed.github.io
+# [chasereed.github.io](chasereed.github.io)
 
-manually edited html 🥰
+- manually edited html 🥰
 
-webmaster legend 🫡
+- webmaster legend 🫡
